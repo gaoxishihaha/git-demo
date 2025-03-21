@@ -12,3 +12,4 @@ hello,dxl!hello,git!
 hello,dxl!hello,git!
 hello,dxl!hello,git!
 hello,dxl!hello,git!mater text
+hello,dxl!hello,git!hot-fix text!
